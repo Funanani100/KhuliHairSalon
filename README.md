@@ -44,18 +44,24 @@ Font Awesome Icons
 # 📂 Project Structure
 
 salon-website/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── assets/
+
     └── images/
 
-#🚀 Getting Started
-1. Clone the repository
-git clone https://github.com/funanani100/KhuliHairSalon.git
+# 🚀 Getting Started
 
-2. Open the project
+1. Clone the repository
+2. git clone https://github.com/funanani100/KhuliHairSalon.git
+3. Open the project
 
 Open index.html in your browser
 OR
