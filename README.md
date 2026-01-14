@@ -29,7 +29,7 @@ Dark mode toggle
 
 Scroll-to-top button
 
-#🛠 Technologies Used
+# 🛠 Technologies Used
 
 HTML5
 
@@ -41,13 +41,20 @@ Google Fonts
 
 Font Awesome Icons
 
-#📂 Project Structure
+# 📂 Project Structure
+
 salon-website/
+
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── assets/
+
     └── images/
 
 #🚀 Getting Started
