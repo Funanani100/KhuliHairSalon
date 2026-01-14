@@ -1,11 +1,11 @@
-#💇‍♀️ Khuli Salon Website
+💇‍♀️ #Khuli Salon Website
 
 A modern, responsive salon website built with HTML, CSS, and JavaScript.
 Designed for hair braiding, hair installation, and nail tech businesses.
 
 This project focuses on clean UI, smooth animations, and mobile-first design to help salons attract more clients and increase bookings.
 
-#✨ Features
+✨ #Features
 
 Fully responsive (mobile, tablet, desktop)
 
@@ -111,5 +111,5 @@ Funanani Mavin Tshirufho
 Frontend Developer | Web Freelancer
 📧 Email: funananimunyai51@gmail.com
 
-🌍 Portfolio: 
+🌍 Portfolio: https://funanani100.github.io/Marvin-Dev/
 🔗 LinkedIn: www.linkedin.com/in/funanani-tshirufho-b4ba3a276
