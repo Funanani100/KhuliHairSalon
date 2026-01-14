@@ -44,17 +44,11 @@ Font Awesome Icons
 # 📂 Project Structure
 
 salon-website/
-
 │
-
 ├── index.html
-
 ├── style.css
-
 ├── script.js
-
 └── assets/
-
     └── images/
 
 #🚀 Getting Started
