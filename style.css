@@ -723,8 +723,10 @@ ul {
     font-size: 0.9rem;
 }
 
-.stars {
+.stars i {
     color: var(--primary-color);
+    display: inline-block;
+    margin-right: 5px;
 }
 
 .carousel-controls {
@@ -1161,4 +1163,5 @@ ul {
     .gallery-grid {
         grid-template-columns: 1fr;
     }
+
 }
