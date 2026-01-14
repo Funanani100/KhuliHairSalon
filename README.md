@@ -1,4 +1,4 @@
-💇‍♀️ #Khuli Salon Website
+💇‍♀️ # Khuli Salon Website
 
 A modern, responsive salon website built with HTML, CSS, and JavaScript.
 Designed for hair braiding, hair installation, and nail tech businesses.
