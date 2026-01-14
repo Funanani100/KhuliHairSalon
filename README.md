@@ -7,16 +7,26 @@ This project focuses on clean UI, smooth animations, and mobile-first design to 
 # ✨Feature
 
 Fully responsive (mobile, tablet, desktop
+
 Modern luxury UI design
 Animated scrolling sections
+
 Sticky navigation bar
+
 Mobile hamburger menu
+
 Services & pricing sections
+
 Gallery with lightbox preview
+
 Booking form with validation
+
 Testimonials slider
+
 WhatsApp floating booking button
+
 Dark mode toggle
+
 Scroll-to-top button
 
 #🛠 Technologies Used
